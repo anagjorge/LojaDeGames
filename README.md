@@ -52,7 +52,7 @@
 
 ## Perguntas, erros ou feedbacks ?
 
-Por favor, deixe uma [issue](https://github.com/anagjorge/LojaDeGames/issues)
+Por favor, insira neste projeto uma [issue](https://github.com/anagjorge/LojaDeGames/issues)
 
 
 <!-- LICENSE -->
