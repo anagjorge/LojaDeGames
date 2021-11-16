@@ -10,7 +10,7 @@
 
 ## 📄 Sobre
 <p align ="center">
-<p>Esta API foi desenvolvida durante o módulo II do bootcamp da Generation Brasil e consiste em uma estrutura back-end de uma loja de games.
+<p>Esta API foi desenvolvida durante o módulo II do Bootcamp da Generation Brasil e consiste em uma estrutura back-end de uma loja de games.
 
 </p>
 
