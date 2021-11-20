@@ -1,10 +1,10 @@
 
 <h1 align= "center"> API Loja de Games </h1>
 
-[![GitHub issues](https://img.shields.io/github/issues/anagjorge/blogPessoal_CRUD?color=blue&logo=GitHub)](https://github.com/anagjorge/blogPessoal/issues)
-[![GitHub forks](https://img.shields.io/github/forks/anagjorge/blogPessoal?logo=GitHub)](https://github.com/anagjorge/blogPessoal/network)
-[![GitHub stars](https://img.shields.io/github/stars/anagjorge/blogPessoal?logo=github)](https://github.com/anagjorge/blogPessoal/stargazers)
-![GitHub last commit](https://img.shields.io/github/last-commit/anagjorge/blogPessoal?color=blue)
+[![GitHub issues](https://img.shields.io/github/issues/anagjorge/LojaDeGames?color=blue&logo=GitHub)](https://github.com/anagjorge/LojaDeGames/issues)
+[![GitHub forks](https://img.shields.io/github/forks/anagjorge/LojaDeGames?logo=GitHub)](https://github.com/anagjorge/LojaDeGames/network)
+[![GitHub stars](https://img.shields.io/github/stars/anagjorge/LojaDeGames?logo=github)](https://github.com/anagjorge/blogPessoal/stargazers)
+![GitHub last commit](https://img.shields.io/github/last-commit/anagjorge/LojaDeGames?color=blue)
 [![Author](https://img.shields.io/badge/autor-AnaJorge-D54F44?color=blue&)](https://github.com/anagjorge)
 
 
